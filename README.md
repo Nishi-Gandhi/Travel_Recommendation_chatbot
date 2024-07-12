@@ -1,4 +1,4 @@
-# Travel_Recommendation_chatbot
+# Travel_Itinerary_Recommendation_chatbot
 # Travel Itinerary Recommendation Chatbot
 
 This project implements a Travel Itinerary Recommendation Chatbot using Retrieval-Augmented Generation (RAG) and FAISS for vector similarity search. The chatbot leverages a Large Language Model (LLM) to understand and process natural language queries and provides personalized travel recommendations based on pre-existing data.
@@ -20,7 +20,7 @@ This project implements a Travel Itinerary Recommendation Chatbot using Retrieva
 
 1. **Clone the repository**:
     ```bash
-    git clone (https://github.com/Nishi-Gandhi/Travel_itenary_chatbot/)
+    git clone (https://github.com/Nishi-Gandhi/Travel_itinerary_chatbot/)
     cd travel-itinerary-chatbot
     ```
 
