@@ -1,0 +1,541 @@
+id,query,response
+1,Tell me the travel package for Paris,"Travel Package for Paris:
+1. Day 1: Explore shopping.
+2. Day 2: Enjoy historical sites.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $2000-$3000"
+2,Suggest a hotel in Singapore,"Suggested Hotel in Singapore: Peninsula.
+It offers great amenities and is located close to major attractions."
+3,Tell me the travel package for Rome,"Travel Package for Rome:
+1. Day 1: Explore sightseeing.
+2. Day 2: Enjoy nightlife.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $3000-$4000"
+4,Tell me the travel package for San Francisco,"Travel Package for San Francisco:
+1. Day 1: Explore shopping.
+2. Day 2: Enjoy beaches.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $2000-$3000"
+5,Tell me the travel package for Bangkok,"Travel Package for Bangkok:
+1. Day 1: Explore sightseeing.
+2. Day 2: Enjoy cultural festivals.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $3000-$4000"
+6,Suggest a hotel in Barcelona,"Suggested Hotel in Barcelona: Marriott.
+It offers great amenities and is located close to major attractions."
+7,Suggest a hotel in San Francisco,"Suggested Hotel in San Francisco: Marriott.
+It offers great amenities and is located close to major attractions."
+8,Can you plan a budget trip to Singapore for $3000-$4000?,"Budget Trip to Singapore:
+1. Day 1: Explore beaches.
+2. Day 2: Enjoy sightseeing.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $3000-$4000"
+9,Suggest a hotel in Istanbul,"Suggested Hotel in Istanbul: Park Hyatt.
+It offers great amenities and is located close to major attractions."
+10,Can you plan a budget trip to Los Angeles for $1000-$2000?,"Budget Trip to Los Angeles:
+1. Day 1: Explore cultural festivals.
+2. Day 2: Enjoy adventure sports.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $1000-$2000"
+11,Tell me the travel package for Singapore,"Travel Package for Singapore:
+1. Day 1: Explore nightlife.
+2. Day 2: Enjoy nature parks.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $4000-$5000"
+12,Can you plan a budget trip to Hong Kong for $1000-$2000?,"Budget Trip to Hong Kong:
+1. Day 1: Explore nightlife.
+2. Day 2: Enjoy shopping.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $1000-$2000"
+13,Tell me the travel package for San Francisco,"Travel Package for San Francisco:
+1. Day 1: Explore beaches.
+2. Day 2: Enjoy shopping.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $2000-$3000"
+14,Tell me the travel package for Istanbul,"Travel Package for Istanbul:
+1. Day 1: Explore cultural festivals.
+2. Day 2: Enjoy adventure sports.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $3000-$4000"
+15,Tell me the travel package for Barcelona,"Travel Package for Barcelona:
+1. Day 1: Explore adventure sports.
+2. Day 2: Enjoy shopping.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $1000-$2000"
+16,Tell me the travel package for Bangkok,"Travel Package for Bangkok:
+1. Day 1: Explore cultural festivals.
+2. Day 2: Enjoy beaches.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $3000-$4000"
+17,Tell me the travel package for Amsterdam,"Travel Package for Amsterdam:
+1. Day 1: Explore historical sites.
+2. Day 2: Enjoy adventure sports.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $4000-$5000"
+18,Suggest a hotel in Sydney,"Suggested Hotel in Sydney: Four Seasons.
+It offers great amenities and is located close to major attractions."
+19,Can you plan a budget trip to Istanbul for $1000-$2000?,"Budget Trip to Istanbul:
+1. Day 1: Explore shopping.
+2. Day 2: Enjoy sightseeing.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $1000-$2000"
+20,Suggest a hotel in Sydney,"Suggested Hotel in Sydney: Hilton.
+It offers great amenities and is located close to major attractions."
+21,Tell me the travel package for Istanbul,"Travel Package for Istanbul:
+1. Day 1: Explore culinary tours.
+2. Day 2: Enjoy nature parks.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $3000-$4000"
+22,Tell me the travel package for Hong Kong,"Travel Package for Hong Kong:
+1. Day 1: Explore culinary tours.
+2. Day 2: Enjoy sightseeing.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $2000-$3000"
+23,Tell me the travel package for New York,"Travel Package for New York:
+1. Day 1: Explore art museums.
+2. Day 2: Enjoy culinary tours.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $2000-$3000"
+24,Suggest a hotel in Dubai,"Suggested Hotel in Dubai: Sheraton.
+It offers great amenities and is located close to major attractions."
+25,Tell me the travel package for Bangkok,"Travel Package for Bangkok:
+1. Day 1: Explore nature parks.
+2. Day 2: Enjoy historical sites.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $2000-$3000"
+26,Can you plan a budget trip to Sydney for $3000-$4000?,"Budget Trip to Sydney:
+1. Day 1: Explore beaches.
+2. Day 2: Enjoy cultural festivals.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $3000-$4000"
+27,Suggest a hotel in Dubai,"Suggested Hotel in Dubai: Ritz-Carlton.
+It offers great amenities and is located close to major attractions."
+28,Suggest a hotel in Amsterdam,"Suggested Hotel in Amsterdam: Marriott.
+It offers great amenities and is located close to major attractions."
+29,Can you plan a budget trip to Paris for $1000-$2000?,"Budget Trip to Paris:
+1. Day 1: Explore sightseeing.
+2. Day 2: Enjoy art museums.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $1000-$2000"
+30,Can you plan a budget trip to Barcelona for $2000-$3000?,"Budget Trip to Barcelona:
+1. Day 1: Explore adventure sports.
+2. Day 2: Enjoy historical sites.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $2000-$3000"
+31,Can you plan a budget trip to Bangkok for $4000-$5000?,"Budget Trip to Bangkok:
+1. Day 1: Explore nature parks.
+2. Day 2: Enjoy shopping.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $4000-$5000"
+32,Suggest a hotel in Hong Kong,"Suggested Hotel in Hong Kong: InterContinental.
+It offers great amenities and is located close to major attractions."
+33,Can you plan a budget trip to Sydney for $4000-$5000?,"Budget Trip to Sydney:
+1. Day 1: Explore nature parks.
+2. Day 2: Enjoy nightlife.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $4000-$5000"
+34,Can you plan a budget trip to London for $3000-$4000?,"Budget Trip to London:
+1. Day 1: Explore culinary tours.
+2. Day 2: Enjoy sightseeing.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $3000-$4000"
+35,Tell me the travel package for Los Angeles,"Travel Package for Los Angeles:
+1. Day 1: Explore nature parks.
+2. Day 2: Enjoy historical sites.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $2000-$3000"
+36,Suggest a hotel in London,"Suggested Hotel in London: Westin.
+It offers great amenities and is located close to major attractions."
+37,Tell me the travel package for Barcelona,"Travel Package for Barcelona:
+1. Day 1: Explore cultural festivals.
+2. Day 2: Enjoy shopping.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $3000-$4000"
+38,Tell me the travel package for Hong Kong,"Travel Package for Hong Kong:
+1. Day 1: Explore nature parks.
+2. Day 2: Enjoy historical sites.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $1000-$2000"
+39,Tell me the travel package for Sydney,"Travel Package for Sydney:
+1. Day 1: Explore adventure sports.
+2. Day 2: Enjoy art museums.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $4000-$5000"
+40,Suggest a hotel in San Francisco,"Suggested Hotel in San Francisco: Hyatt.
+It offers great amenities and is located close to major attractions."
+41,Tell me the travel package for New York,"Travel Package for New York:
+1. Day 1: Explore adventure sports.
+2. Day 2: Enjoy sightseeing.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $2000-$3000"
+42,Can you plan a budget trip to Amsterdam for $3000-$4000?,"Budget Trip to Amsterdam:
+1. Day 1: Explore culinary tours.
+2. Day 2: Enjoy sightseeing.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $3000-$4000"
+43,Can you plan a budget trip to Sydney for $4000-$5000?,"Budget Trip to Sydney:
+1. Day 1: Explore historical sites.
+2. Day 2: Enjoy art museums.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $4000-$5000"
+44,Suggest a hotel in Amsterdam,"Suggested Hotel in Amsterdam: InterContinental.
+It offers great amenities and is located close to major attractions."
+45,Tell me the travel package for Sydney,"Travel Package for Sydney:
+1. Day 1: Explore nightlife.
+2. Day 2: Enjoy beaches.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $2000-$3000"
+46,Can you plan a budget trip to Tokyo for $3000-$4000?,"Budget Trip to Tokyo:
+1. Day 1: Explore cultural festivals.
+2. Day 2: Enjoy adventure sports.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $3000-$4000"
+47,Tell me the travel package for Istanbul,"Travel Package for Istanbul:
+1. Day 1: Explore sightseeing.
+2. Day 2: Enjoy shopping.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $4000-$5000"
+48,Suggest a hotel in Bangkok,"Suggested Hotel in Bangkok: Hilton.
+It offers great amenities and is located close to major attractions."
+49,Suggest a hotel in Rome,"Suggested Hotel in Rome: Radisson.
+It offers great amenities and is located close to major attractions."
+50,Tell me the travel package for Los Angeles,"Travel Package for Los Angeles:
+1. Day 1: Explore shopping.
+2. Day 2: Enjoy nature parks.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $4000-$5000"
+51,Tell me the travel package for New York,"Travel Package for New York:
+1. Day 1: Explore art museums.
+2. Day 2: Enjoy cultural festivals.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $1000-$2000"
+52,Can you plan a budget trip to Rome for $3000-$4000?,"Budget Trip to Rome:
+1. Day 1: Explore culinary tours.
+2. Day 2: Enjoy shopping.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $3000-$4000"
+53,Can you plan a budget trip to Los Angeles for $1000-$2000?,"Budget Trip to Los Angeles:
+1. Day 1: Explore cultural festivals.
+2. Day 2: Enjoy adventure sports.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $1000-$2000"
+54,Suggest a hotel in Bangkok,"Suggested Hotel in Bangkok: Waldorf Astoria.
+It offers great amenities and is located close to major attractions."
+55,Tell me the travel package for Sydney,"Travel Package for Sydney:
+1. Day 1: Explore historical sites.
+2. Day 2: Enjoy shopping.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $1000-$2000"
+56,Can you plan a budget trip to Tokyo for $2000-$3000?,"Budget Trip to Tokyo:
+1. Day 1: Explore historical sites.
+2. Day 2: Enjoy culinary tours.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $2000-$3000"
+57,Tell me the travel package for Paris,"Travel Package for Paris:
+1. Day 1: Explore historical sites.
+2. Day 2: Enjoy sightseeing.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $4000-$5000"
+58,Suggest a hotel in New York,"Suggested Hotel in New York: Hilton.
+It offers great amenities and is located close to major attractions."
+59,Suggest a hotel in Dubai,"Suggested Hotel in Dubai: Waldorf Astoria.
+It offers great amenities and is located close to major attractions."
+60,Suggest a hotel in Tokyo,"Suggested Hotel in Tokyo: Westin.
+It offers great amenities and is located close to major attractions."
+61,Can you plan a budget trip to San Francisco for $1000-$2000?,"Budget Trip to San Francisco:
+1. Day 1: Explore art museums.
+2. Day 2: Enjoy adventure sports.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $1000-$2000"
+62,Suggest a hotel in Tokyo,"Suggested Hotel in Tokyo: St. Regis.
+It offers great amenities and is located close to major attractions."
+63,Suggest a hotel in Amsterdam,"Suggested Hotel in Amsterdam: Hyatt.
+It offers great amenities and is located close to major attractions."
+64,Tell me the travel package for Tokyo,"Travel Package for Tokyo:
+1. Day 1: Explore art museums.
+2. Day 2: Enjoy nature parks.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $1000-$2000"
+65,Suggest a hotel in London,"Suggested Hotel in London: Mandarin Oriental.
+It offers great amenities and is located close to major attractions."
+66,Suggest a hotel in Istanbul,"Suggested Hotel in Istanbul: Marriott.
+It offers great amenities and is located close to major attractions."
+67,Can you plan a budget trip to Sydney for $4000-$5000?,"Budget Trip to Sydney:
+1. Day 1: Explore art museums.
+2. Day 2: Enjoy cultural festivals.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $4000-$5000"
+68,Suggest a hotel in Barcelona,"Suggested Hotel in Barcelona: Ritz-Carlton.
+It offers great amenities and is located close to major attractions."
+69,Can you plan a budget trip to Hong Kong for $1000-$2000?,"Budget Trip to Hong Kong:
+1. Day 1: Explore adventure sports.
+2. Day 2: Enjoy sightseeing.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $1000-$2000"
+70,Can you plan a budget trip to Bangkok for $1000-$2000?,"Budget Trip to Bangkok:
+1. Day 1: Explore historical sites.
+2. Day 2: Enjoy culinary tours.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $1000-$2000"
+71,Can you plan a budget trip to Barcelona for $3000-$4000?,"Budget Trip to Barcelona:
+1. Day 1: Explore nature parks.
+2. Day 2: Enjoy culinary tours.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $3000-$4000"
+72,Can you plan a budget trip to Sydney for $3000-$4000?,"Budget Trip to Sydney:
+1. Day 1: Explore shopping.
+2. Day 2: Enjoy beaches.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $3000-$4000"
+73,Tell me the travel package for Bangkok,"Travel Package for Bangkok:
+1. Day 1: Explore beaches.
+2. Day 2: Enjoy culinary tours.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $4000-$5000"
+74,Tell me the travel package for Bangkok,"Travel Package for Bangkok:
+1. Day 1: Explore historical sites.
+2. Day 2: Enjoy cultural festivals.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $1000-$2000"
+75,Suggest a hotel in Tokyo,"Suggested Hotel in Tokyo: Marriott.
+It offers great amenities and is located close to major attractions."
+76,Suggest a hotel in Singapore,"Suggested Hotel in Singapore: Waldorf Astoria.
+It offers great amenities and is located close to major attractions."
+77,Tell me the travel package for Barcelona,"Travel Package for Barcelona:
+1. Day 1: Explore nightlife.
+2. Day 2: Enjoy adventure sports.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $2000-$3000"
+78,Suggest a hotel in Rome,"Suggested Hotel in Rome: Park Hyatt.
+It offers great amenities and is located close to major attractions."
+79,Tell me the travel package for New York,"Travel Package for New York:
+1. Day 1: Explore art museums.
+2. Day 2: Enjoy beaches.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $4000-$5000"
+80,Suggest a hotel in Los Angeles,"Suggested Hotel in Los Angeles: Hilton.
+It offers great amenities and is located close to major attractions."
+81,Can you plan a budget trip to San Francisco for $1000-$2000?,"Budget Trip to San Francisco:
+1. Day 1: Explore shopping.
+2. Day 2: Enjoy adventure sports.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $1000-$2000"
+82,Can you plan a budget trip to Rome for $3000-$4000?,"Budget Trip to Rome:
+1. Day 1: Explore nature parks.
+2. Day 2: Enjoy shopping.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $3000-$4000"
+83,Tell me the travel package for London,"Travel Package for London:
+1. Day 1: Explore art museums.
+2. Day 2: Enjoy cultural festivals.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $4000-$5000"
+84,Can you plan a budget trip to Hong Kong for $2000-$3000?,"Budget Trip to Hong Kong:
+1. Day 1: Explore art museums.
+2. Day 2: Enjoy nightlife.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $2000-$3000"
+85,Can you plan a budget trip to Dubai for $1000-$2000?,"Budget Trip to Dubai:
+1. Day 1: Explore culinary tours.
+2. Day 2: Enjoy beaches.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $1000-$2000"
+86,Tell me the travel package for Bangkok,"Travel Package for Bangkok:
+1. Day 1: Explore nightlife.
+2. Day 2: Enjoy adventure sports.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $2000-$3000"
+87,Can you plan a budget trip to Bangkok for $4000-$5000?,"Budget Trip to Bangkok:
+1. Day 1: Explore art museums.
+2. Day 2: Enjoy cultural festivals.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $4000-$5000"
+88,Tell me the travel package for Rome,"Travel Package for Rome:
+1. Day 1: Explore historical sites.
+2. Day 2: Enjoy nature parks.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $3000-$4000"
+89,Tell me the travel package for San Francisco,"Travel Package for San Francisco:
+1. Day 1: Explore nightlife.
+2. Day 2: Enjoy cultural festivals.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $1000-$2000"
+90,Can you plan a budget trip to Barcelona for $2000-$3000?,"Budget Trip to Barcelona:
+1. Day 1: Explore culinary tours.
+2. Day 2: Enjoy shopping.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $2000-$3000"
+91,Tell me the travel package for Istanbul,"Travel Package for Istanbul:
+1. Day 1: Explore shopping.
+2. Day 2: Enjoy adventure sports.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $4000-$5000"
+92,Can you plan a budget trip to New York for $4000-$5000?,"Budget Trip to New York:
+1. Day 1: Explore adventure sports.
+2. Day 2: Enjoy shopping.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $4000-$5000"
+93,Suggest a hotel in Rome,"Suggested Hotel in Rome: Hyatt.
+It offers great amenities and is located close to major attractions."
+94,Suggest a hotel in Los Angeles,"Suggested Hotel in Los Angeles: Hyatt.
+It offers great amenities and is located close to major attractions."
+95,Tell me the travel package for San Francisco,"Travel Package for San Francisco:
+1. Day 1: Explore nightlife.
+2. Day 2: Enjoy adventure sports.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $1000-$2000"
+96,Suggest a hotel in Rome,"Suggested Hotel in Rome: Sheraton.
+It offers great amenities and is located close to major attractions."
+97,Tell me the travel package for New York,"Travel Package for New York:
+1. Day 1: Explore beaches.
+2. Day 2: Enjoy nightlife.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $3000-$4000"
+98,Tell me the travel package for Amsterdam,"Travel Package for Amsterdam:
+1. Day 1: Explore sightseeing.
+2. Day 2: Enjoy beaches.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Price: $3000-$4000"
+99,Can you plan a budget trip to Rome for $4000-$5000?,"Budget Trip to Rome:
+1. Day 1: Explore nature parks.
+2. Day 2: Enjoy historical sites.
+3. Day 3: Continue exploring the city.
+4. Day 4: Visit nearby attractions.
+5. Day 5: Departure.
+Total Budget: $4000-$5000"
+100,Suggest a hotel in Amsterdam,"Suggested Hotel in Amsterdam: Holiday Inn.
+It offers great amenities and is located close to major attractions."
